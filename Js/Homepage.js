@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-const urlGetPosts = 'http://localhost:8080/hej'
-=======
+
 const urlGetPosts = 'http://localhost:8080/'
->>>>>>> origin/main
 const tablePost = document.getElementById('post-list')
 
 async function createPostTable(post) {
